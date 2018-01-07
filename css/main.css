@@ -1098,7 +1098,7 @@ header .top-bar {
 	background: #000000;
 	min-width: 220px;
 	min-height: 66px;
-	position: absolute;
+	position: static;
 	left: 90px;
 	top: 0;
 }
